@@ -1,0 +1,35 @@
+.body{
+    background-color: cornsilk;
+
+}
+.container-fluid{
+    margin-left:5px;    
+}
+.container-fluid:hover {
+    background-color: aquamarine;
+}
+
+.mb-3{
+    background-color: aquamarine;
+    width: 500px;
+    padding: 50px;
+    margin-right: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    position:static;
+  top: 50cm;
+}
+
+#imagem{
+    width: 500px;
+    margin-left: 700px;
+    font-size: 50px;
+    clip-path: inset(100px 10px);
+}
+
+.texto{
+    text-align:right
+    font-size:small;
+
+}
